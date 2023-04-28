@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/VSProjects/Funcionario/bin/Debug/net7.0/Funcionario
+/home/gabriel/Desktop/VSProjects/Funcionario/bin/Debug/net7.0/Funcionario.deps.json
+/home/gabriel/Desktop/VSProjects/Funcionario/bin/Debug/net7.0/Funcionario.runtimeconfig.json
+/home/gabriel/Desktop/VSProjects/Funcionario/bin/Debug/net7.0/Funcionario.dll
+/home/gabriel/Desktop/VSProjects/Funcionario/bin/Debug/net7.0/Funcionario.pdb
+/home/gabriel/Desktop/VSProjects/Funcionario/obj/Debug/net7.0/Funcionario.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/VSProjects/Funcionario/obj/Debug/net7.0/Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/VSProjects/Funcionario/obj/Debug/net7.0/Funcionario.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/VSProjects/Funcionario/obj/Debug/net7.0/Funcionario.AssemblyInfo.cs
+/home/gabriel/Desktop/VSProjects/Funcionario/obj/Debug/net7.0/Funcionario.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/VSProjects/Funcionario/obj/Debug/net7.0/Funcionario.dll
+/home/gabriel/Desktop/VSProjects/Funcionario/obj/Debug/net7.0/refint/Funcionario.dll
+/home/gabriel/Desktop/VSProjects/Funcionario/obj/Debug/net7.0/Funcionario.pdb
+/home/gabriel/Desktop/VSProjects/Funcionario/obj/Debug/net7.0/Funcionario.genruntimeconfig.cache
+/home/gabriel/Desktop/VSProjects/Funcionario/obj/Debug/net7.0/ref/Funcionario.dll
